@@ -4,6 +4,7 @@
  * _push - pushes an element to the stack
  * @stack: head
  * @num_line: number line
+ *
  */
 void _push(stack_t **stack, unsigned int num_line)
 {
